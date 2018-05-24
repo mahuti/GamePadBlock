@@ -2,7 +2,7 @@
 Utility to dynamically switch the GamePadBlock's mode using the COM port on the Raspberry Pi
 
 GamePadBlock is a piece of hardware that allows you to switch between controllers dynamically and use 2 of each controller. 
-For more: [https://blog.petrockblock.com/gamepadblock/]
+For more: https://blog.petrockblock.com/gamepadblock/
 
 This script requires that Pyserial, USB HID Quirks be installed. Instructions for doing this can be found below. 
 
@@ -10,10 +10,10 @@ Also, please note, you will probably still have to only leave the controllers yo
 
 ## Update firmware for GamePadBlock to 1.2+
 GamePadBlock must be at firmware 1.2 or greater to dynamically change via the COM port. 
-See here for instructions: [https://github.com/petrockblog/petrockutil]
+See here for instructions: https://github.com/petrockblog/petrockutil
 
 ## Download GamePadBlock Binary
-Download the precompiled binary for your specific system from here and copy it to a folder on your Pi named "gamepadblock" in /home/pi/: [https://blog.petrockblock.com/gamepadblock-downloads/]
+Download the precompiled binary for your specific system from here and copy it to a folder on your Pi named "gamepadblock" in /home/pi/: https://blog.petrockblock.com/gamepadblock-downloads/
 
 *NOTE:* Don't bother doing a custom compile, just get the binaries. If you really want to try compiling it yourself, you can get he source here: 
 
