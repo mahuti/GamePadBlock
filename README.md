@@ -32,7 +32,7 @@ To run this python script for GamePadBlock, install Pyserial
 	sudo apt-get install -y python-pip
 	sudo pip install pyserial
 
-See this URL for more information if interested: [https://blog.petrockblock.com/2017/11/11/using-virtual-com-port-gamepadblock/]
+See this URL for more information if interested: https://blog.petrockblock.com/2017/11/11/using-virtual-com-port-gamepadblock/
 
 ## Get the location of the GamePadBlock COM Port
 You'll need the location of device's COM port (/dev/ttyACM0, etc). This will be added to the script in the next step
